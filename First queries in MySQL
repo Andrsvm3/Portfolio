@@ -1,4 +1,4 @@
-These are small queries that are within a MySQL training that I am doing on a database called employees and which consists of several tables
+These are small queries that are within a MySQL training that I am doing on a database called "employees" and which consists of several tables
 
 EXERCISE 1 --> AVERAGE SALARY OF MEN AND WOMEN BY DEPARTMENT
 SELECT
